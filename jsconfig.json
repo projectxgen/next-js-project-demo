@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@/tip-calculator/*": ["./public/images/tip-calculator/*"]
     }
   }
 }
